@@ -1,0 +1,20 @@
+{
+  "name": "coin-marketcap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coin-price.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "dotenv": "^4.0.0",
+    "node-cron": "^1.2.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "twilio": "^3.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
